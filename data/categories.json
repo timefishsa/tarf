@@ -1,0 +1,67 @@
+{
+  "categories": [
+    {
+      "id": "women",
+      "slug": "women",
+      "name": "ملابس نسائية",
+      "image": "/categories/women.jpg",
+      "productCount": 45
+    },
+    {
+      "id": "men",
+      "slug": "men",
+      "name": "ملابس رجالية",
+      "image": "/categories/men.jpg",
+      "productCount": 38
+    },
+    {
+      "id": "girls",
+      "slug": "girls",
+      "name": "ملابس بنات",
+      "image": "/categories/girls.jpg",
+      "productCount": 24
+    },
+    {
+      "id": "boys",
+      "slug": "boys",
+      "name": "ملابس أولاد",
+      "image": "/categories/boys.jpg",
+      "productCount": 26
+    },
+    {
+      "id": "bags",
+      "slug": "bags",
+      "name": "حقائب نسائية",
+      "image": "/categories/bags.jpg",
+      "productCount": 22
+    },
+    {
+      "id": "shoes",
+      "slug": "shoes",
+      "name": "أحذية",
+      "image": "/categories/shoes.jpg",
+      "productCount": 19
+    },
+    {
+      "id": "perfumes",
+      "slug": "perfumes",
+      "name": "عطور",
+      "image": "/categories/perfumes.jpg",
+      "productCount": 14
+    },
+    {
+      "id": "accessories",
+      "slug": "accessories",
+      "name": "إكسسوارات",
+      "image": "/categories/accessories.jpg",
+      "productCount": 31
+    },
+    {
+      "id": "beauty",
+      "slug": "beauty",
+      "name": "أدوات تجميل",
+      "image": "/categories/beauty.jpg",
+      "productCount": 18
+    }
+  ]
+}

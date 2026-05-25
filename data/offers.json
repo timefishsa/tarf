@@ -1,0 +1,25 @@
+{
+  "offers": [
+    {
+      "id": "o1",
+      "title": "أهم عروض الأطفال",
+      "discount": "50%",
+      "image": "/offers/kids.jpg",
+      "href": "/category/kids"
+    },
+    {
+      "id": "o2",
+      "title": "أهم عروض الرجال",
+      "discount": "40%",
+      "image": "/offers/men.jpg",
+      "href": "/category/men"
+    },
+    {
+      "id": "o3",
+      "title": "أهم عروض النساء",
+      "discount": "50%",
+      "image": "/offers/women.jpg",
+      "href": "/category/women"
+    }
+  ]
+}
