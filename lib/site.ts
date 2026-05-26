@@ -15,9 +15,9 @@ export const SITE_CONFIG = {
 
   // معلومات التواصل
   contact: {
-    phone: "+967747867867",
-    phoneDisplay: "+967 747 867 867",
-    whatsapp: "967747867867",
+    phone: "+967774786786",
+    phoneDisplay: "+967774786786",
+    whatsapp: "967774786786",
     email: "info@tarafstore.com",
     address: "صنعاء - شارع تعز",
     addressFull: "صنعاء - شارع تعز - اليمن",
@@ -26,7 +26,7 @@ export const SITE_CONFIG = {
 
   // روابط التواصل الاجتماعي
   social: {
-    whatsapp: "https://wa.me/967747867867",
+    whatsapp: "https://wa.me/967774786786",
     instagram: "https://instagram.com/tarafstore",
     tiktok: "https://tiktok.com/@tarafstore",
     facebook: "https://facebook.com/tarafstore",
