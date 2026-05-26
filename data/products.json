@@ -8,7 +8,7 @@
       "price": 149,
       "oldPrice": 199,
       "image": "/products/bag-1.jpg",
-      "images": ["/products/bag-1.jpg", "/products/bag-1-2.jpg", "/products/bag-1-3.jpg"],
+      "images": ["/products/bag-1.jpg"],
       "category": "bags",
       "rating": 4.5,
       "reviewsCount": 85,
@@ -25,48 +25,9 @@
     },
     {
       "id": "p2",
-      "slug": "elegant-pink-dress",
-      "name": "فستان زهري أنيق",
-      "description": "فستان زهري بتصميم أنيق وعصري، مصنوع من أجود الأقمشة المريحة. مثالي للمناسبات والإطلالات اليومية.",
-      "price": 89,
-      "oldPrice": 129,
-      "image": "/products/dress-1.jpg",
-      "images": ["/products/dress-1.jpg", "/products/dress-1-2.jpg"],
-      "category": "women",
-      "rating": 4.7,
-      "reviewsCount": 124,
-      "colors": [
-        { "name": "زهري", "hex": "#F8BBD0" },
-        { "name": "أبيض", "hex": "#FFFFFF" }
-      ],
-      "sizes": ["S", "M", "L", "XL"],
-      "stock": 18,
-      "isBestseller": true
-    },
-    {
-      "id": "p3",
-      "slug": "white-sport-shoes",
-      "name": "حذاء رياضي أبيض",
-      "description": "حذاء رياضي عصري مريح للاستخدام اليومي، بتصميم أنيق وخامة عالية الجودة تمنحك راحة طوال اليوم.",
-      "price": 129,
-      "image": "/products/shoes-1.jpg",
-      "images": ["/products/shoes-1.jpg", "/products/shoes-1-2.jpg"],
-      "category": "shoes",
-      "rating": 4.6,
-      "reviewsCount": 67,
-      "colors": [
-        { "name": "أبيض", "hex": "#FFFFFF" },
-        { "name": "أسود", "hex": "#1A1A1A" }
-      ],
-      "sizes": ["38", "39", "40", "41", "42", "43"],
-      "stock": 32,
-      "isNew": true
-    },
-    {
-      "id": "p4",
       "slug": "classic-leather-bag",
-      "name": "حقيبة كلاسيك",
-      "description": "حقيبة كلاسيكية أنيقة بتصميم خالد، مصنوعة من الجلد الطبيعي عالي الجودة.",
+      "name": "حقيبة كلاسيك جلدية",
+      "description": "حقيبة كلاسيكية أنيقة بتصميم خالد، مصنوعة من الجلد الطبيعي عالي الجودة مع تشطيبات معدنية فاخرة تليق بإطلالاتك اليومية والرسمية.",
       "price": 129,
       "image": "/products/bag-2.jpg",
       "images": ["/products/bag-2.jpg"],
@@ -81,10 +42,10 @@
       "stock": 15
     },
     {
-      "id": "p5",
+      "id": "p3",
       "slug": "small-shoulder-bag",
       "name": "حقيبة كتف صغيرة",
-      "description": "حقيبة كتف صغيرة عملية وأنيقة، مثالية للخروجات اليومية والمناسبات.",
+      "description": "حقيبة كتف صغيرة عملية وأنيقة بحزام طويل قابل للتعديل، مثالية للخروجات اليومية والمناسبات القصيرة.",
       "price": 119,
       "image": "/products/bag-3.jpg",
       "images": ["/products/bag-3.jpg"],
@@ -100,10 +61,10 @@
       "isNew": true
     },
     {
-      "id": "p6",
+      "id": "p4",
       "slug": "luxury-leather-bag",
       "name": "حقيبة جلدية فاخرة",
-      "description": "حقيبة جلدية فاخرة بتصميم عصري، مثالية لإطلالة أنيقة ومميزة.",
+      "description": "حقيبة جلدية فاخرة بتصميم عصري ومساحة داخلية واسعة، مثالية للعمل والمناسبات الرسمية.",
       "price": 159,
       "image": "/products/bag-4.jpg",
       "images": ["/products/bag-4.jpg"],
@@ -115,13 +76,489 @@
         { "name": "أسود", "hex": "#1A1A1A" }
       ],
       "sizes": ["كبير"],
-      "stock": 12
+      "stock": 12,
+      "isBestseller": true
+    },
+    {
+      "id": "p5",
+      "slug": "evening-clutch-bag",
+      "name": "كلاتش سهرة أنيق",
+      "description": "كلاتش سهرة بتصميم راقٍ وتفاصيل لامعة، يضيف لمسة فاخرة لإطلالات المناسبات والأعراس.",
+      "price": 89,
+      "oldPrice": 119,
+      "image": "/products/bag-5.jpg",
+      "images": ["/products/bag-5.jpg"],
+      "category": "bags",
+      "rating": 4.6,
+      "reviewsCount": 54,
+      "colors": [
+        { "name": "ذهبي", "hex": "#D4AF37" },
+        { "name": "فضي", "hex": "#C0C0C0" },
+        { "name": "أسود", "hex": "#1A1A1A" }
+      ],
+      "sizes": ["مقاس واحد"],
+      "stock": 18
+    },
+    {
+      "id": "p6",
+      "slug": "tote-bag-everyday",
+      "name": "حقيبة توت يومية",
+      "description": "حقيبة توت واسعة وعملية تتسع لجميع احتياجاتك اليومية، بخامة متينة وتصميم بسيط وأنيق.",
+      "price": 109,
+      "image": "/products/bag-6.jpg",
+      "images": ["/products/bag-6.jpg"],
+      "category": "bags",
+      "rating": 4.4,
+      "reviewsCount": 47,
+      "colors": [
+        { "name": "بيج", "hex": "#D4A373" },
+        { "name": "أسود", "hex": "#1A1A1A" }
+      ],
+      "sizes": ["كبير"],
+      "stock": 30
     },
     {
       "id": "p7",
+      "slug": "crossbody-mini-bag",
+      "name": "حقيبة كروس صغيرة",
+      "description": "حقيبة كروس عصرية بحجم صغير وتصميم أنيق، مثالية للجامعة والخروج مع الصديقات.",
+      "price": 95,
+      "oldPrice": 130,
+      "image": "/products/bag-7.jpg",
+      "images": ["/products/bag-7.jpg"],
+      "category": "bags",
+      "rating": 4.5,
+      "reviewsCount": 61,
+      "colors": [
+        { "name": "وردي", "hex": "#F8BBD0" },
+        { "name": "بيج", "hex": "#D4A373" },
+        { "name": "أسود", "hex": "#1A1A1A" }
+      ],
+      "sizes": ["صغير"],
+      "stock": 28,
+      "isNew": true
+    },
+    {
+      "id": "p8",
+      "slug": "premium-tote-bag",
+      "name": "حقيبة توت بريميوم",
+      "description": "حقيبة توت فاخرة بخامة جلدية ممتازة ومقابض مريحة، تجمع بين الأناقة والعملية في تصميم واحد.",
+      "price": 169,
+      "image": "/products/bag-8.jpg",
+      "images": ["/products/bag-8.jpg"],
+      "category": "bags",
+      "rating": 4.7,
+      "reviewsCount": 73,
+      "colors": [
+        { "name": "بني", "hex": "#8B4513" },
+        { "name": "أسود", "hex": "#1A1A1A" }
+      ],
+      "sizes": ["كبير"],
+      "stock": 14
+    },
+
+    {
+      "id": "p9",
+      "slug": "elegant-pink-dress",
+      "name": "فستان زهري أنيق",
+      "description": "فستان زهري بتصميم أنيق وعصري، مصنوع من أجود الأقمشة المريحة. مثالي للمناسبات والإطلالات اليومية.",
+      "price": 89,
+      "oldPrice": 129,
+      "image": "/products/dress-1.jpg",
+      "images": ["/products/dress-1.jpg"],
+      "category": "women",
+      "rating": 4.7,
+      "reviewsCount": 124,
+      "colors": [
+        { "name": "زهري", "hex": "#F8BBD0" },
+        { "name": "أبيض", "hex": "#FFFFFF" }
+      ],
+      "sizes": ["S", "M", "L", "XL"],
+      "stock": 18,
+      "isBestseller": true
+    },
+    {
+      "id": "p10",
+      "slug": "summer-floral-dress",
+      "name": "فستان صيفي مزهر",
+      "description": "فستان صيفي بطبعة مزهرة ساحرة وقماش خفيف يمنحك إحساساً بالانتعاش طوال اليوم.",
+      "price": 79,
+      "image": "/products/dress-2.jpg",
+      "images": ["/products/dress-2.jpg"],
+      "category": "women",
+      "rating": 4.5,
+      "reviewsCount": 88,
+      "colors": [
+        { "name": "أزرق فاتح", "hex": "#90CAF9" },
+        { "name": "وردي", "hex": "#F8BBD0" }
+      ],
+      "sizes": ["S", "M", "L", "XL"],
+      "stock": 25,
+      "isNew": true
+    },
+    {
+      "id": "p11",
+      "slug": "evening-black-dress",
+      "name": "فستان سهرة أسود",
+      "description": "فستان سهرة أسود كلاسيكي بقصة أنيقة تبرز جمال القوام، خيارك الأمثل للحفلات والمناسبات الرسمية.",
+      "price": 159,
+      "oldPrice": 219,
+      "image": "/products/dress-3.jpg",
+      "images": ["/products/dress-3.jpg"],
+      "category": "women",
+      "rating": 4.8,
+      "reviewsCount": 142,
+      "colors": [
+        { "name": "أسود", "hex": "#1A1A1A" }
+      ],
+      "sizes": ["S", "M", "L", "XL"],
+      "stock": 12,
+      "isBestseller": true
+    },
+    {
+      "id": "p12",
+      "slug": "casual-midi-dress",
+      "name": "فستان ميدي كاجوال",
+      "description": "فستان ميدي بطول مناسب وقصة مريحة للاستخدام اليومي، يتميز بقماش ناعم وألوان عصرية.",
+      "price": 69,
+      "image": "/products/dress-4.jpg",
+      "images": ["/products/dress-4.jpg"],
+      "category": "women",
+      "rating": 4.4,
+      "reviewsCount": 67,
+      "colors": [
+        { "name": "بيج", "hex": "#D4A373" },
+        { "name": "أسود", "hex": "#1A1A1A" }
+      ],
+      "sizes": ["S", "M", "L", "XL"],
+      "stock": 30
+    },
+    {
+      "id": "p13",
+      "slug": "long-maxi-dress",
+      "name": "فستان ماكسي طويل",
+      "description": "فستان ماكسي بطول كامل وقصة انسيابية، يجمع بين الأناقة والاحتشام في إطلالة عصرية.",
+      "price": 119,
+      "image": "/products/dress-5.jpg",
+      "images": ["/products/dress-5.jpg"],
+      "category": "women",
+      "rating": 4.6,
+      "reviewsCount": 95,
+      "colors": [
+        { "name": "أزرق", "hex": "#1E40AF" },
+        { "name": "أخضر", "hex": "#16A34A" }
+      ],
+      "sizes": ["S", "M", "L", "XL"],
+      "stock": 22
+    },
+    {
+      "id": "p14",
+      "slug": "office-formal-dress",
+      "name": "فستان رسمي للعمل",
+      "description": "فستان رسمي بقصة محتشمة وألوان هادئة، مصمم خصيصاً ليتناسب مع بيئة العمل اليومية.",
+      "price": 99,
+      "oldPrice": 139,
+      "image": "/products/dress-6.jpg",
+      "images": ["/products/dress-6.jpg"],
+      "category": "women",
+      "rating": 4.5,
+      "reviewsCount": 71,
+      "colors": [
+        { "name": "كحلي", "hex": "#1E3A8A" },
+        { "name": "رمادي", "hex": "#6B7280" }
+      ],
+      "sizes": ["S", "M", "L", "XL"],
+      "stock": 19
+    },
+    {
+      "id": "p15",
+      "slug": "boho-style-dress",
+      "name": "فستان بوهيمي",
+      "description": "فستان بستايل بوهيمي مميز بتطريز يدوي وقماش قطني فاخر، يمنحك إطلالة مختلفة وجريئة.",
+      "price": 109,
+      "image": "/products/dress-7.jpg",
+      "images": ["/products/dress-7.jpg"],
+      "category": "women",
+      "rating": 4.6,
+      "reviewsCount": 58,
+      "colors": [
+        { "name": "بيج", "hex": "#D4A373" },
+        { "name": "أبيض", "hex": "#FFFFFF" }
+      ],
+      "sizes": ["S", "M", "L"],
+      "stock": 16,
+      "isNew": true
+    },
+    {
+      "id": "p16",
+      "slug": "wrap-style-dress",
+      "name": "فستان لف عصري",
+      "description": "فستان بقصة لف عصرية تبرز جمال القوام، بقماش ناعم ومريح للارتداء طوال اليوم.",
+      "price": 89,
+      "image": "/products/dress-8.jpg",
+      "images": ["/products/dress-8.jpg"],
+      "category": "women",
+      "rating": 4.5,
+      "reviewsCount": 64,
+      "colors": [
+        { "name": "أحمر", "hex": "#DC2626" },
+        { "name": "أسود", "hex": "#1A1A1A" }
+      ],
+      "sizes": ["S", "M", "L", "XL"],
+      "stock": 21
+    },
+    {
+      "id": "p17",
+      "slug": "shirt-dress",
+      "name": "فستان قميص",
+      "description": "فستان بقصة قميص أنيقة وأزرار أمامية، يجمع بين الكاجوال والأناقة في تصميم واحد.",
+      "price": 75,
+      "image": "/products/dress-9.jpg",
+      "images": ["/products/dress-9.jpg"],
+      "category": "women",
+      "rating": 4.3,
+      "reviewsCount": 49,
+      "colors": [
+        { "name": "أبيض", "hex": "#FFFFFF" },
+        { "name": "أزرق فاتح", "hex": "#90CAF9" }
+      ],
+      "sizes": ["S", "M", "L", "XL"],
+      "stock": 27
+    },
+    {
+      "id": "p18",
+      "slug": "knit-winter-dress",
+      "name": "فستان شتوي مكتنز",
+      "description": "فستان شتوي بقماش مكتنز دافئ، مثالي لإطلالات الشتاء العصرية في أجواء صنعاء الباردة.",
+      "price": 129,
+      "oldPrice": 169,
+      "image": "/products/dress-10.jpg",
+      "images": ["/products/dress-10.jpg"],
+      "category": "women",
+      "rating": 4.7,
+      "reviewsCount": 82,
+      "colors": [
+        { "name": "بني", "hex": "#8B4513" },
+        { "name": "كحلي", "hex": "#1E3A8A" }
+      ],
+      "sizes": ["S", "M", "L", "XL"],
+      "stock": 17
+    },
+    {
+      "id": "p19",
+      "slug": "lace-detail-dress",
+      "name": "فستان بتفاصيل دانتيل",
+      "description": "فستان أنيق بتفاصيل دانتيل ناعمة على الأكمام والياقة، يضيف لمسة رومانسية لإطلالتك.",
+      "price": 139,
+      "image": "/products/dress-11.jpg",
+      "images": ["/products/dress-11.jpg"],
+      "category": "women",
+      "rating": 4.8,
+      "reviewsCount": 103,
+      "colors": [
+        { "name": "أبيض", "hex": "#FFFFFF" },
+        { "name": "زهري", "hex": "#F8BBD0" }
+      ],
+      "sizes": ["S", "M", "L"],
+      "stock": 14,
+      "isBestseller": true
+    },
+    {
+      "id": "p20",
+      "slug": "puff-sleeve-dress",
+      "name": "فستان بأكمام منفوخة",
+      "description": "فستان عصري بأكمام منفوخة جذابة وقصة أنيقة، يضفي عليك حضوراً مميزاً في أي مناسبة.",
+      "price": 99,
+      "image": "/products/dress-12.jpg",
+      "images": ["/products/dress-12.jpg"],
+      "category": "women",
+      "rating": 4.5,
+      "reviewsCount": 74,
+      "colors": [
+        { "name": "أسود", "hex": "#1A1A1A" },
+        { "name": "أحمر", "hex": "#DC2626" }
+      ],
+      "sizes": ["S", "M", "L", "XL"],
+      "stock": 20
+    },
+    {
+      "id": "p21",
+      "slug": "satin-luxury-dress",
+      "name": "فستان ساتان فاخر",
+      "description": "فستان ساتان فاخر بلمعة ناعمة وملمس حريري، الخيار المثالي لحفلات الزفاف والمناسبات الكبرى.",
+      "price": 189,
+      "oldPrice": 249,
+      "image": "/products/dress-13.jpg",
+      "images": ["/products/dress-13.jpg"],
+      "category": "women",
+      "rating": 4.9,
+      "reviewsCount": 156,
+      "colors": [
+        { "name": "ذهبي", "hex": "#D4AF37" },
+        { "name": "أحمر", "hex": "#DC2626" },
+        { "name": "أخضر زمردي", "hex": "#047857" }
+      ],
+      "sizes": ["S", "M", "L", "XL"],
+      "stock": 9,
+      "isBestseller": true
+    },
+    {
+      "id": "p22",
+      "slug": "denim-casual-dress",
+      "name": "فستان جينز كاجوال",
+      "description": "فستان جينز عملي ومريح للإطلالات اليومية، بقصة عصرية وتفاصيل أنيقة.",
+      "price": 85,
+      "image": "/products/dress-14.jpg",
+      "images": ["/products/dress-14.jpg"],
+      "category": "women",
+      "rating": 4.4,
+      "reviewsCount": 56,
+      "colors": [
+        { "name": "أزرق جينز", "hex": "#3B82F6" }
+      ],
+      "sizes": ["S", "M", "L", "XL"],
+      "stock": 24
+    },
+    {
+      "id": "p23",
+      "slug": "embroidered-traditional-dress",
+      "name": "فستان مطرز تقليدي",
+      "description": "فستان بتطريز يدوي مستوحى من التراث اليمني، يجمع بين الأصالة واللمسة العصرية.",
+      "price": 169,
+      "image": "/products/dress-15.jpg",
+      "images": ["/products/dress-15.jpg"],
+      "category": "women",
+      "rating": 4.8,
+      "reviewsCount": 92,
+      "colors": [
+        { "name": "بيج", "hex": "#D4A373" },
+        { "name": "أسود", "hex": "#1A1A1A" }
+      ],
+      "sizes": ["S", "M", "L", "XL"],
+      "stock": 11,
+      "isNew": true
+    },
+    {
+      "id": "p24",
+      "slug": "midi-pleated-dress",
+      "name": "فستان ميدي بليسيه",
+      "description": "فستان ميدي بطيات بليسيه أنيقة وقصة انسيابية، يمنحك إطلالة كلاسيكية راقية.",
+      "price": 109,
+      "oldPrice": 149,
+      "image": "/products/dress-16.jpg",
+      "images": ["/products/dress-16.jpg"],
+      "category": "women",
+      "rating": 4.6,
+      "reviewsCount": 78,
+      "colors": [
+        { "name": "كحلي", "hex": "#1E3A8A" },
+        { "name": "بني", "hex": "#8B4513" }
+      ],
+      "sizes": ["S", "M", "L", "XL"],
+      "stock": 18
+    },
+    {
+      "id": "p25",
+      "slug": "modern-abaya-dress",
+      "name": "عباية مودرن",
+      "description": "عباية بتصميم عصري وخامة فاخرة تجمع بين الاحتشام والأناقة، مناسبة للإطلالات اليومية والمناسبات.",
+      "price": 149,
+      "image": "/products/dress-17.jpg",
+      "images": ["/products/dress-17.jpg"],
+      "category": "women",
+      "rating": 4.7,
+      "reviewsCount": 118,
+      "colors": [
+        { "name": "أسود", "hex": "#1A1A1A" },
+        { "name": "كحلي", "hex": "#1E3A8A" },
+        { "name": "بني", "hex": "#8B4513" }
+      ],
+      "sizes": ["S", "M", "L", "XL", "XXL"],
+      "stock": 26,
+      "isBestseller": true
+    },
+
+    {
+      "id": "p26",
+      "slug": "white-sport-shoes",
+      "name": "حذاء رياضي أبيض",
+      "description": "حذاء رياضي عصري مريح للاستخدام اليومي، بتصميم أنيق وخامة عالية الجودة تمنحك راحة طوال اليوم.",
+      "price": 129,
+      "image": "/products/shoes-1.jpg",
+      "images": ["/products/shoes-1.jpg"],
+      "category": "shoes",
+      "rating": 4.6,
+      "reviewsCount": 67,
+      "colors": [
+        { "name": "أبيض", "hex": "#FFFFFF" },
+        { "name": "أسود", "hex": "#1A1A1A" }
+      ],
+      "sizes": ["38", "39", "40", "41", "42", "43"],
+      "stock": 32,
+      "isNew": true
+    },
+    {
+      "id": "p27",
+      "slug": "running-sport-shoes",
+      "name": "حذاء جري رياضي",
+      "description": "حذاء جري بتقنية امتصاص الصدمات ونعل مرن، مصمم لتمنحك أداءً مثالياً في التمارين والمشي.",
+      "price": 159,
+      "oldPrice": 199,
+      "image": "/products/shoes-2.jpg",
+      "images": ["/products/shoes-2.jpg"],
+      "category": "shoes",
+      "rating": 4.7,
+      "reviewsCount": 84,
+      "colors": [
+        { "name": "أسود", "hex": "#1A1A1A" },
+        { "name": "رمادي", "hex": "#6B7280" }
+      ],
+      "sizes": ["39", "40", "41", "42", "43", "44"],
+      "stock": 26,
+      "isBestseller": true
+    },
+    {
+      "id": "p28",
+      "slug": "casual-sneakers",
+      "name": "سنيكرز كاجوال",
+      "description": "حذاء سنيكرز عصري للإطلالات اليومية، يجمع بين الأناقة والراحة بتصميم خفيف ومتين.",
+      "price": 99,
+      "image": "/products/shoes-3.jpg",
+      "images": ["/products/shoes-3.jpg"],
+      "category": "shoes",
+      "rating": 4.4,
+      "reviewsCount": 52,
+      "colors": [
+        { "name": "أبيض", "hex": "#FFFFFF" },
+        { "name": "بيج", "hex": "#D4A373" }
+      ],
+      "sizes": ["38", "39", "40", "41", "42"],
+      "stock": 22
+    },
+    {
+      "id": "p29",
+      "slug": "classic-leather-shoes",
+      "name": "حذاء جلدي كلاسيكي",
+      "description": "حذاء جلدي كلاسيكي بخامة طبيعية وتشطيب يدوي، مثالي للمناسبات الرسمية وبيئة العمل.",
+      "price": 179,
+      "image": "/products/shoes-4.jpg",
+      "images": ["/products/shoes-4.jpg"],
+      "category": "shoes",
+      "rating": 4.8,
+      "reviewsCount": 71,
+      "colors": [
+        { "name": "بني", "hex": "#8B4513" },
+        { "name": "أسود", "hex": "#1A1A1A" }
+      ],
+      "sizes": ["40", "41", "42", "43", "44"],
+      "stock": 14
+    },
+
+    {
+      "id": "p30",
       "slug": "mens-formal-shirt",
       "name": "قميص رجالي رسمي",
-      "description": "قميص رجالي رسمي بقماش قطني فاخر، يناسب المناسبات الرسمية والعمل.",
+      "description": "قميص رجالي رسمي بقماش قطني فاخر، يناسب المناسبات الرسمية والعمل بقصة كلاسيكية أنيقة.",
       "price": 99,
       "oldPrice": 139,
       "image": "/products/shirt-1.jpg",
@@ -134,31 +571,185 @@
         { "name": "أزرق فاتح", "hex": "#90CAF9" }
       ],
       "sizes": ["S", "M", "L", "XL", "XXL"],
-      "stock": 28
+      "stock": 28,
+      "isBestseller": true
     },
+
     {
-      "id": "p8",
-      "slug": "kids-casual-set",
-      "name": "طقم أطفال كاجوال",
-      "description": "طقم أطفال مريح وعملي، مصنوع من القطن الناعم اللطيف على البشرة.",
+      "id": "p31",
+      "slug": "girls-pink-dress",
+      "name": "فستان بنات وردي",
+      "description": "فستان بنات بلون وردي ساحر وتفاصيل أنيقة، مثالي للمناسبات والأعياد.",
       "price": 79,
-      "oldPrice": 119,
+      "oldPrice": 109,
       "image": "/products/kids-1.jpg",
       "images": ["/products/kids-1.jpg"],
-      "category": "kids",
-      "rating": 4.5,
-      "reviewsCount": 43,
+      "category": "girls",
+      "rating": 4.7,
+      "reviewsCount": 64,
       "colors": [
-        { "name": "بني", "hex": "#8B4513" }
+        { "name": "وردي", "hex": "#F8BBD0" }
+      ],
+      "sizes": ["2-3", "4-5", "6-7", "8-9", "10-11"],
+      "stock": 22,
+      "isBestseller": true
+    },
+    {
+      "id": "p32",
+      "slug": "girls-casual-set",
+      "name": "طقم بنات كاجوال",
+      "description": "طقم بنات مريح وعملي مكون من قطعتين، مصنوع من القطن الناعم اللطيف على البشرة.",
+      "price": 65,
+      "image": "/products/kids-2.jpg",
+      "images": ["/products/kids-2.jpg"],
+      "category": "girls",
+      "rating": 4.5,
+      "reviewsCount": 48,
+      "colors": [
+        { "name": "زهري", "hex": "#F8BBD0" },
+        { "name": "بنفسجي", "hex": "#A78BFA" }
+      ],
+      "sizes": ["2-3", "4-5", "6-7", "8-9"],
+      "stock": 30
+    },
+    {
+      "id": "p33",
+      "slug": "girls-summer-dress",
+      "name": "فستان بنات صيفي",
+      "description": "فستان بنات صيفي خفيف ومنعش بطبعات ملونة جذابة، مثالي للنزهات والإطلالات اليومية.",
+      "price": 55,
+      "image": "/products/kids-3.jpg",
+      "images": ["/products/kids-3.jpg"],
+      "category": "girls",
+      "rating": 4.4,
+      "reviewsCount": 39,
+      "colors": [
+        { "name": "أصفر", "hex": "#FACC15" },
+        { "name": "وردي", "hex": "#F8BBD0" }
+      ],
+      "sizes": ["2-3", "4-5", "6-7", "8-9"],
+      "stock": 26,
+      "isNew": true
+    },
+    {
+      "id": "p34",
+      "slug": "girls-elegant-dress",
+      "name": "فستان بنات أنيق",
+      "description": "فستان بنات أنيق بتصميم راقٍ وتفاصيل فاخرة، يجعل طفلتك تتألق في المناسبات الخاصة.",
+      "price": 89,
+      "image": "/products/kids-4.jpg",
+      "images": ["/products/kids-4.jpg"],
+      "category": "girls",
+      "rating": 4.8,
+      "reviewsCount": 71,
+      "colors": [
+        { "name": "أبيض", "hex": "#FFFFFF" },
+        { "name": "ذهبي", "hex": "#D4AF37" }
+      ],
+      "sizes": ["2-3", "4-5", "6-7", "8-9", "10-11"],
+      "stock": 15
+    },
+    {
+      "id": "p35",
+      "slug": "girls-comfy-pajama",
+      "name": "بيجاما بنات قطنية",
+      "description": "بيجاما بنات قطنية ناعمة ومريحة لنوم هادئ، بتصميم لطيف وألوان زاهية.",
+      "price": 45,
+      "image": "/products/kids-5.jpg",
+      "images": ["/products/kids-5.jpg"],
+      "category": "girls",
+      "rating": 4.6,
+      "reviewsCount": 53,
+      "colors": [
+        { "name": "زهري", "hex": "#F8BBD0" },
+        { "name": "أزرق فاتح", "hex": "#90CAF9" }
       ],
       "sizes": ["2-3", "4-5", "6-7", "8-9"],
       "stock": 35
     },
+
     {
-      "id": "p9",
+      "id": "p36",
+      "slug": "boys-casual-set",
+      "name": "طقم أولاد كاجوال",
+      "description": "طقم أولاد كاجوال مريح وعملي، مصنوع من القطن الناعم لراحة قصوى طوال اليوم.",
+      "price": 79,
+      "oldPrice": 119,
+      "image": "/products/kids-6.jpg",
+      "images": ["/products/kids-6.jpg"],
+      "category": "boys",
+      "rating": 4.5,
+      "reviewsCount": 43,
+      "colors": [
+        { "name": "بني", "hex": "#8B4513" },
+        { "name": "كحلي", "hex": "#1E3A8A" }
+      ],
+      "sizes": ["2-3", "4-5", "6-7", "8-9"],
+      "stock": 35,
+      "isBestseller": true
+    },
+    {
+      "id": "p37",
+      "slug": "boys-tshirt-jeans",
+      "name": "تيشيرت وجينز أولاد",
+      "description": "طقم أولاد عصري من تيشيرت قطني وبنطلون جينز، يمنح طفلك إطلالة كاجوال أنيقة.",
+      "price": 69,
+      "image": "/products/kids-7.jpg",
+      "images": ["/products/kids-7.jpg"],
+      "category": "boys",
+      "rating": 4.4,
+      "reviewsCount": 37,
+      "colors": [
+        { "name": "أزرق", "hex": "#3B82F6" },
+        { "name": "رمادي", "hex": "#6B7280" }
+      ],
+      "sizes": ["2-3", "4-5", "6-7", "8-9", "10-11"],
+      "stock": 28
+    },
+    {
+      "id": "p38",
+      "slug": "boys-formal-suit",
+      "name": "بدلة أولاد رسمية",
+      "description": "بدلة أولاد رسمية كاملة بتصميم أنيق، مثالية للأعراس والمناسبات الرسمية.",
+      "price": 159,
+      "oldPrice": 219,
+      "image": "/products/kids-8.jpg",
+      "images": ["/products/kids-8.jpg"],
+      "category": "boys",
+      "rating": 4.8,
+      "reviewsCount": 62,
+      "colors": [
+        { "name": "كحلي", "hex": "#1E3A8A" },
+        { "name": "أسود", "hex": "#1A1A1A" }
+      ],
+      "sizes": ["4-5", "6-7", "8-9", "10-11"],
+      "stock": 16,
+      "isNew": true
+    },
+    {
+      "id": "p39",
+      "slug": "boys-sport-set",
+      "name": "طقم أولاد رياضي",
+      "description": "طقم رياضي للأولاد بقماش مرن وتصميم عملي، مثالي للنشاط البدني واللعب.",
+      "price": 75,
+      "image": "/products/kids-9.jpg",
+      "images": ["/products/kids-9.jpg"],
+      "category": "boys",
+      "rating": 4.5,
+      "reviewsCount": 41,
+      "colors": [
+        { "name": "أحمر", "hex": "#DC2626" },
+        { "name": "أزرق", "hex": "#3B82F6" }
+      ],
+      "sizes": ["4-5", "6-7", "8-9", "10-11"],
+      "stock": 24
+    },
+
+    {
+      "id": "p40",
       "slug": "luxury-perfume",
-      "name": "عطر فاخر",
-      "description": "عطر فاخر بنفحات شرقية ساحرة، يدوم طويلاً ويمنحك إطلالة عطرية مميزة.",
+      "name": "عطر شرقي فاخر",
+      "description": "عطر فاخر بنفحات شرقية ساحرة من العود والمسك والورد، يدوم طويلاً ويمنحك إطلالة عطرية مميزة.",
       "price": 199,
       "image": "/products/perfume-1.jpg",
       "images": ["/products/perfume-1.jpg"],
@@ -171,10 +762,28 @@
       "isBestseller": true
     },
     {
-      "id": "p10",
-      "slug": "gold-accessory",
-      "name": "إكسسوار ذهبي",
-      "description": "إكسسوار ذهبي أنيق يضيف لمسة فاخرة لإطلالتك.",
+      "id": "p41",
+      "slug": "floral-perfume",
+      "name": "عطر زهري ناعم",
+      "description": "عطر زهري برائحة منعشة من الياسمين والورد والفل، مثالي للاستخدام اليومي والإطلالات الناعمة.",
+      "price": 149,
+      "oldPrice": 199,
+      "image": "/products/perfume-2.jpg",
+      "images": ["/products/perfume-2.jpg"],
+      "category": "perfumes",
+      "rating": 4.7,
+      "reviewsCount": 87,
+      "colors": [],
+      "sizes": ["50ml", "100ml"],
+      "stock": 25,
+      "isNew": true
+    },
+
+    {
+      "id": "p42",
+      "slug": "gold-accessory-set",
+      "name": "طقم إكسسوار ذهبي",
+      "description": "طقم إكسسوار ذهبي أنيق يضيف لمسة فاخرة لإطلالتك، مكون من قلادة وأقراط متناسقة.",
       "price": 69,
       "image": "/products/accessory-1.jpg",
       "images": ["/products/accessory-1.jpg"],
@@ -188,6 +797,211 @@
       "sizes": ["مقاس واحد"],
       "stock": 40,
       "isNew": true
+    },
+    {
+      "id": "p43",
+      "slug": "pearl-necklace",
+      "name": "قلادة لؤلؤ كلاسيكية",
+      "description": "قلادة لؤلؤ كلاسيكية بتصميم راقٍ، تضيف لمسة من الأناقة والفخامة لأي إطلالة.",
+      "price": 89,
+      "oldPrice": 129,
+      "image": "/products/accessory-2.jpg",
+      "images": ["/products/accessory-2.jpg"],
+      "category": "accessories",
+      "rating": 4.7,
+      "reviewsCount": 56,
+      "colors": [
+        { "name": "أبيض لؤلؤي", "hex": "#FAFAF5" }
+      ],
+      "sizes": ["مقاس واحد"],
+      "stock": 22,
+      "isBestseller": true
+    },
+    {
+      "id": "p44",
+      "slug": "stacked-bracelets",
+      "name": "أساور متعددة الطبقات",
+      "description": "مجموعة أساور متعددة الطبقات بتصاميم عصرية، تمنحك إطلالة بوهيمية أنيقة.",
+      "price": 49,
+      "image": "/products/accessory-3.jpg",
+      "images": ["/products/accessory-3.jpg"],
+      "category": "accessories",
+      "rating": 4.5,
+      "reviewsCount": 38,
+      "colors": [
+        { "name": "ذهبي", "hex": "#D4AF37" },
+        { "name": "فضي", "hex": "#C0C0C0" },
+        { "name": "ذهبي وردي", "hex": "#E8B4A0" }
+      ],
+      "sizes": ["مقاس واحد"],
+      "stock": 35
+    },
+    {
+      "id": "p45",
+      "slug": "drop-earrings",
+      "name": "أقراط متدلية أنيقة",
+      "description": "أقراط متدلية بتصميم أنيق وتفاصيل دقيقة، تضيف لمسة أنثوية ساحرة لإطلالتك.",
+      "price": 39,
+      "image": "/products/accessory-4.jpg",
+      "images": ["/products/accessory-4.jpg"],
+      "category": "accessories",
+      "rating": 4.4,
+      "reviewsCount": 32,
+      "colors": [
+        { "name": "ذهبي", "hex": "#D4AF37" },
+        { "name": "فضي", "hex": "#C0C0C0" }
+      ],
+      "sizes": ["مقاس واحد"],
+      "stock": 42
+    },
+    {
+      "id": "p46",
+      "slug": "statement-ring",
+      "name": "خاتم مميز",
+      "description": "خاتم بتصميم مميز وحجر بارز، قطعة بيان أنيقة تكمل إطلالتك بلمسة جريئة.",
+      "price": 59,
+      "oldPrice": 79,
+      "image": "/products/accessory-5.jpg",
+      "images": ["/products/accessory-5.jpg"],
+      "category": "accessories",
+      "rating": 4.6,
+      "reviewsCount": 44,
+      "colors": [
+        { "name": "ذهبي", "hex": "#D4AF37" },
+        { "name": "فضي", "hex": "#C0C0C0" }
+      ],
+      "sizes": ["6", "7", "8", "9"],
+      "stock": 28
+    },
+    {
+      "id": "p47",
+      "slug": "silk-scarf",
+      "name": "وشاح حريري ملوّن",
+      "description": "وشاح حريري بطبعات ملوّنة جذابة، يضفي لمسة أنيقة على إطلالاتك بطرق ارتداء متعددة.",
+      "price": 79,
+      "image": "/products/accessory-6.jpg",
+      "images": ["/products/accessory-6.jpg"],
+      "category": "accessories",
+      "rating": 4.5,
+      "reviewsCount": 51,
+      "colors": [
+        { "name": "متعدد الألوان", "hex": "#F472B6" }
+      ],
+      "sizes": ["مقاس واحد"],
+      "stock": 30,
+      "isNew": true
+    },
+    {
+      "id": "p48",
+      "slug": "ladies-watch",
+      "name": "ساعة نسائية أنيقة",
+      "description": "ساعة نسائية بتصميم أنيق وحركة دقيقة، مناسبة للاستخدام اليومي والمناسبات الرسمية.",
+      "price": 149,
+      "oldPrice": 199,
+      "image": "/products/accessory-7.jpg",
+      "images": ["/products/accessory-7.jpg"],
+      "category": "accessories",
+      "rating": 4.8,
+      "reviewsCount": 78,
+      "colors": [
+        { "name": "ذهبي وردي", "hex": "#E8B4A0" },
+        { "name": "فضي", "hex": "#C0C0C0" }
+      ],
+      "sizes": ["مقاس واحد"],
+      "stock": 18,
+      "isBestseller": true
+    },
+
+    {
+      "id": "p49",
+      "slug": "lipstick-set",
+      "name": "طقم أحمر شفاه",
+      "description": "طقم أحمر شفاه بتركيبة مرطبة وألوان متنوعة تدوم طويلاً، يمنحك شفاه ناعمة وجذابة.",
+      "price": 89,
+      "image": "/products/beauty-1.jpg",
+      "images": ["/products/beauty-1.jpg"],
+      "category": "beauty",
+      "rating": 4.7,
+      "reviewsCount": 96,
+      "colors": [
+        { "name": "أحمر كلاسيكي", "hex": "#DC2626" },
+        { "name": "زهري", "hex": "#F472B6" },
+        { "name": "خوخي", "hex": "#FB923C" }
+      ],
+      "sizes": ["مقاس واحد"],
+      "stock": 45,
+      "isBestseller": true
+    },
+    {
+      "id": "p50",
+      "slug": "eyeshadow-palette",
+      "name": "باليت ظلال عيون",
+      "description": "باليت ظلال عيون احترافي بألوان متناسقة وقوام ناعم سهل الدمج، لإطلالة عيون متكاملة.",
+      "price": 119,
+      "oldPrice": 159,
+      "image": "/products/beauty-2.jpg",
+      "images": ["/products/beauty-2.jpg"],
+      "category": "beauty",
+      "rating": 4.8,
+      "reviewsCount": 124,
+      "colors": [],
+      "sizes": ["مقاس واحد"],
+      "stock": 32,
+      "isBestseller": true
+    },
+    {
+      "id": "p51",
+      "slug": "skincare-set",
+      "name": "روتين العناية بالبشرة",
+      "description": "طقم متكامل للعناية بالبشرة يشمل غسولاً وتونر وكريم ترطيب، لبشرة نضرة وصحية.",
+      "price": 199,
+      "image": "/products/beauty-3.jpg",
+      "images": ["/products/beauty-3.jpg"],
+      "category": "beauty",
+      "rating": 4.9,
+      "reviewsCount": 142,
+      "colors": [],
+      "sizes": ["طقم كامل"],
+      "stock": 22,
+      "isNew": true
+    },
+    {
+      "id": "p52",
+      "slug": "makeup-brushes-set",
+      "name": "طقم فرش مكياج",
+      "description": "طقم فرش مكياج احترافي بشعيرات ناعمة عالية الجودة، يضم 12 فرشاة بأحجام واستخدامات مختلفة.",
+      "price": 99,
+      "image": "/products/beauty-4.jpg",
+      "images": ["/products/beauty-4.jpg"],
+      "category": "beauty",
+      "rating": 4.6,
+      "reviewsCount": 67,
+      "colors": [
+        { "name": "ذهبي وردي", "hex": "#E8B4A0" }
+      ],
+      "sizes": ["12 قطعة"],
+      "stock": 28
+    },
+    {
+      "id": "p53",
+      "slug": "foundation-concealer",
+      "name": "كريم أساس وكونسيلر",
+      "description": "كريم أساس بتغطية متوسطة قابلة للبناء مع كونسيلر مطابق، لإخفاء العيوب وتوحيد لون البشرة.",
+      "price": 139,
+      "oldPrice": 179,
+      "image": "/products/beauty-5.jpg",
+      "images": ["/products/beauty-5.jpg"],
+      "category": "beauty",
+      "rating": 4.7,
+      "reviewsCount": 89,
+      "colors": [
+        { "name": "بيج فاتح", "hex": "#F5DEB3" },
+        { "name": "بيج وسط", "hex": "#D4A373" },
+        { "name": "بيج غامق", "hex": "#A0826D" }
+      ],
+      "sizes": ["مقاس واحد"],
+      "stock": 36
     }
   ]
 }
+
